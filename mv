@@ -1,0 +1,11 @@
+mv
+
+Used in unix to move or rename files.
+
+Generally takes two arguments (and multiple flags viewable at 'man mv'):
+  the file to be moved
+  the new name it is to have and the path of its new location.
+
+If a new name is not specified the files keeps its original name.
+
+Note - If you move a file from its current dir, to the current dir, this command can be used to rename files. In fact its the most common way of renaming files!

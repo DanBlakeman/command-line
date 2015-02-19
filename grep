@@ -1,0 +1,9 @@
+grep
+
+Used in unix to search within files for lines containing a particular text.
+
+generally called with two arguments (and many flags viewable in its man page):
+  the string to be found
+  the file to be searched.
+  
+Note: by default grep will return the full line which contains the searched for string! Not just the string alone. 

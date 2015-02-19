@@ -1,0 +1,12 @@
+wc
+
+Used in unix to count words, lines, chars, or bytes in a given input.
+
+Generally called with one argument:
+  the file or input to be counted.
+  
+Will return the number of lines, words, and characters by default along with the file name.
+
+To get only one of these outputs please use the relevant flag (viewable on it's man page).
+
+Note: Combined with grep, wc can be useful for counting search results.
